@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  [username: MyString
+  game: MyString
+  mode: MyString
+  action: 
+  aps: 
+  date: 
+
+two:
+  [username: MyString
+  game: MyString
+  mode: MyString
+  action: 
+  aps: 
+  date: 
